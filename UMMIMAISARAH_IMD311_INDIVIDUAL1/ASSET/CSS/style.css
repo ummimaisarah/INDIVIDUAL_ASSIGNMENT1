@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #FFD1DC;
+}
+
+.topnav a {
+  float: left;
+  color: #A94064;
+  font-family: arial black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:#A94064;
+  color: black ;
+}
+
+
+h2 {
+  font-family: broadway;
+  font-size: 60px;
+  color:#A94064;
+  background-color:black;
+}
+
+.biodata{
+  color:White;
+  font-family:Arial Black;
+}
+
+.sec{
+   font-family: Arista;
+   color:#66023C;
+}
+
+.quotes{
+  font-family:heritage;
+  font-size:20px;
+  color:#BDD5E7;
+  text-align:center;
+  background-color:black;
+}
+
+.sport{
+  font-family:Jazzy;
+  font-size: 60px;
+  color:#FCA510;
+  text-align:center;
+  background-color:black;
+}
+
+.mldesc{
+  font-family:Jazzy;
+  font-size: 20px;
+  color:Black;
+  text-align:center;
+  background-color:#2282A4;
+}
+
+
+.quotes2{
+  font-family:Ink Free;
+  font-size:20px;
+  color:#2282A4;
+  text-align:center;
+  background-color:#CE9DD9;
+  width:50%
+}
+
+.home{
+  font-family:Lucida Handwriting;
+  font-size: 60px;
+  color: #FFD1DC;
+  text-align:center;
+  background-color:#A94064;
+}
+
+
+.experience{
+  font-family:Jazzy;
+  font-size: 60px;
+  color:#8D4585;
+  text-align:center;
+  background-color:#E4A0F7;
+}
+
+.expdesc{
+   font-family:Jazzy;
+   color:#702963;
+   font-size:20px;
+   width:80%;   
+}
+
+.interest{
+   font-family:Jazzy;
+  font-size: 60px;
+  color:#FFD1DC;
+  text-align:center;
+  background-color:#A94064;
+}
+
+.interestdesc{
+  font-family:Times new roman ;
+  font-size:20px;
+  color:black;
+  text-align:center;
+  background-color:#FD8A8A;
+  width:50%
+}
+
+.interest2{
+   font-family:Ink Free ;
+  font-size: 30px;
+  color:#FFD1DC;
+  text-align:center;
+  background-color:#A94064;
+}
+
+.playlist{
+   font-family:Jazzy;
+  font-size: 60px;
+  color:#FFD1DC;
+  text-align:center;
+  background-color:#4D006D;
+}
+
+.playlistdesc{
+   font-family:Jazzy;
+   color:#FFD1DC;
+   font-size:20px;
+   background-color:black;
+   width:80%;   
+}
+
+.songname{
+   font-family:Cooper black;
+   color:#4D006D;
+   font-size:20px;  
+}
